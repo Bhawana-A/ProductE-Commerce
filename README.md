@@ -292,6 +292,6 @@ cloudinary.api-secret=YOUR_API_SECRET
 
 # Author
 
-##Bhawana Ahirwar##
+**Bhawana Ahirwar**
 
 ---
